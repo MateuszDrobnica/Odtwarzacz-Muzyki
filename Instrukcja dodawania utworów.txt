@@ -1,0 +1,3 @@
+1. Żeby dodać utwór, należy umieścić plik z rozszerzeniem .mp3 do folderu music i zastąpić go innym który już się znajduje w folderze oraz zmienić nazwę na song1, song2, song3, song4 lub song5.
+
+2. Można także zmienić okładkę utworu, umieszczając plik okładki z rozszerzeniem .jpg do folderu img i zmieniając nazwę na img1, img2, img3, img4 lub img5 odpowiednio dla numeru utworu song (liczba danego utworu).
